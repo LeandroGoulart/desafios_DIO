@@ -1,18 +1,15 @@
-## Getting Started
+Desafio de programação em Java para a disciplina de Programação Orientada a Objetos.
+```
+## Descrição
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+O objetivo desse desafio é criar um programa em Java que simule um sistema de gerenciamento de contas bancárias. O programa deve ser capaz de criar contas bancárias, realizar operações de depósito, saque e transferência de valores entre contas.
 
-## Folder Structure
+## Requisitos
+- O programa deve ter uma classe `ContaBancaria` que represente uma conta bancária
+- A classe `ContaBancaria` deve ter atributos para o número da conta, o nome do titular da conta e o saldo da conta
 
-The workspace contains two folders by default, where:
+## Funcionalidades
+- O programa deve permitir a criação de contas bancárias para o número da conta, o nome do titular da conta e o saldo inicial
+- O programa deve permitir realizar operações de depósito e saque de valores na conta
+- O programa deve permitir consultar o saldo da conta
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
