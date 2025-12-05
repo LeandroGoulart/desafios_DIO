@@ -7,7 +7,10 @@ Esse repositório serve como base para organização de desafios de cursos/forma
 Aqui você encontrará um pouco do meu desenvolvimento ao longo da minha trajetória.
 
 ## Material abordado
-São apps desenvolvidos principalmente em `VSCODE`, 
+São apps desenvolvidos no estilo handsON, com IDE principal o `VSCODE.
+
+
+Seguintes tópicos abordados:
 POO, Integração, Banco de dados, Segurança da informação e Inteligência artificial.
 
 ## Linguagens utilizadas
